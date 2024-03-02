@@ -2,3 +2,4 @@ li=[1,4,7,6,10]
 for i in li:
   if i%2==0:
     print(li[i])
+    print("hello world")
