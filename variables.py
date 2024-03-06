@@ -1,6 +1,9 @@
 a=20
 print(a)
-print(type(a))
+print(type(a)
 b="diggibyte"
-print(b)
+print(b))
 print(type(b))
+c=66.9
+print(c)
+print(type(c))
