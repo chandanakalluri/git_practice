@@ -1,0 +1,9 @@
+a=20
+b="chandu"
+c=66.6
+d=True
+print(a)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
