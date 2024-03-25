@@ -1,0 +1,9 @@
+-use SQL_Practice;
+--create table employee(eid int primary key,name varchar(10),salary int,mail varchar(15));
+--insert into employee values(104,'keerthi',10000,'keeru@gmail.com'),(102,'ganitha',35000,'gani@gmail.com'),
+--(103,'lakshmi',10000,'luck@gmail.com');
+--select*from employee;
+--select * from employee where eid<=102 and eid>=101;
+--select * from employee where eid=102 or eid=101;
+--SELECT name FROM employee WHERE name LIKE 'c%' OR name LIKE 'g%';
+--select name from employee where salary between 20000 and 40000; 
